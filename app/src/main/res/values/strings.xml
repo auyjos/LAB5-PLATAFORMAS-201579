@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab4Jose</string>
+    <string name="stringVista">vista</string>
+    <string name="iniciar_vista">Iniciar Vista</string>
+</resources>
